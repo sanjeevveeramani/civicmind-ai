@@ -1,0 +1,59 @@
+[
+  {
+    "id": "profile_001",
+    "name": "Springfield Metro",
+    "population": 420000,
+    "community_type": "urban",
+    "infrastructure": 78,
+    "workforce": 72,
+    "data_maturity": 68,
+    "governance": 74,
+    "ethics": 65,
+    "public_trust": 70,
+    "free_text": "Springfield has a mature fiber network, a university partnership producing 800 CS graduates per year, and an established open-data portal with 5 years of city datasets. The city council passed an AI ethics resolution in 2023.",
+    "expected_outcome": {
+      "path_a_overall": 72.35,
+      "arbitrator_status": "agreement",
+      "notes": "High scores across all dimensions. Path A and Path B should align. Use this profile first to show the system working smoothly."
+    }
+  },
+  {
+    "id": "profile_002",
+    "name": "Maplewood Township",
+    "population": 91000,
+    "community_type": "suburban",
+    "infrastructure": 61,
+    "workforce": 48,
+    "data_maturity": 55,
+    "governance": 58,
+    "ethics": 44,
+    "public_trust": 63,
+    "free_text": "Maplewood has adopted an AI policy on paper but implementation is inconsistent across departments. The IT department has 3 staff. Most data is siloed in legacy systems with no API access. Neighboring towns have implemented similar policies with mixed results.",
+    "expected_outcome": {
+      "path_a_overall": 54.9,
+      "arbitrator_status": "divergence",
+      "divergent_dimension": "governance",
+      "path_a_governance": 58,
+      "path_b_governance_estimate": 32,
+      "notes": "DIVERGENCE TRIGGER PROFILE. Governance scores high on paper (58) because the policy exists. The LLM should recognize from case studies that suburban communities with policy-on-paper often score 20-30 points lower in practice. This is the dramatic demo moment — use this second."
+    }
+  },
+  {
+    "id": "profile_003",
+    "name": "Clearwater Rural District",
+    "population": 8400,
+    "community_type": "rural",
+    "infrastructure": 28,
+    "workforce": 22,
+    "data_maturity": 18,
+    "governance": 30,
+    "ethics": 20,
+    "public_trust": 52,
+    "free_text": "Clearwater covers a 600 square mile area with 34% broadband penetration. The county has no dedicated IT staff. All government operations run on spreadsheets. Residents have high trust in local government but low familiarity with digital services.",
+    "expected_outcome": {
+      "path_a_overall": 24.9,
+      "arbitrator_status": "agreement",
+      "notes": "Low scores across all dimensions. Both paths should agree this community needs foundational work before AI adoption. The gap analysis here is the most detailed — use this last to show the action plan output. Note: high public_trust (52) is intentional — rural communities often trust local government even when infrastructure is low."
+    }
+  }
+]

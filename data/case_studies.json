@@ -1,0 +1,252 @@
+[
+  {
+    "name": "City of San Jose, CA",
+    "population": 1030000,
+    "type": "urban",
+    "use_case": "AI-powered traffic signal optimization",
+    "outcome": "12% reduction in commute times, $3.2M annual savings",
+    "challenges": "Data privacy concerns, union pushback on automation",
+    "year": 2023,
+    "source": "https://oecd.ai/cases/san-jose-traffic"
+  },
+  {
+    "name": "City of Chicago, IL",
+    "population": 2700000,
+    "type": "urban",
+    "use_case": "Predictive analytics for building code violations",
+    "outcome": "Fires in targeted buildings reduced by 70% in pilot areas",
+    "challenges": "Algorithmic bias allegations, public skepticism about surveillance",
+    "year": 2022,
+    "source": "https://datasmart.hks.harvard.edu/chicago-building-violations"
+  },
+  {
+    "name": "New York City, NY",
+    "population": 8336000,
+    "type": "urban",
+    "use_case": "AI hiring bias audit tool for city contractors",
+    "outcome": "Established first municipal AI bias audit law (Local Law 144)",
+    "challenges": "Audit scope disputes, vendor compliance gaps",
+    "year": 2023,
+    "source": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page"
+  },
+  {
+    "name": "Los Angeles, CA",
+    "population": 3900000,
+    "type": "urban",
+    "use_case": "Homelessness prediction and resource allocation",
+    "outcome": "20% improvement in shelter placement efficiency",
+    "challenges": "Civil liberties concerns, data quality issues in homeless databases",
+    "year": 2022,
+    "source": "https://www.rand.org/pubs/research_reports/RRA1484-1.html"
+  },
+  {
+    "name": "Boston, MA",
+    "population": 675000,
+    "type": "urban",
+    "use_case": "311 service request triage with NLP classification",
+    "outcome": "35% faster routing of public works requests",
+    "challenges": "Language equity for non-English speakers, legacy system integration",
+    "year": 2023,
+    "source": "https://www.boston.gov/innovation-and-technology"
+  },
+  {
+    "name": "Seattle, WA",
+    "population": 737000,
+    "type": "urban",
+    "use_case": "AI-based pothole detection from street-camera feeds",
+    "outcome": "Maintenance response time cut from 14 days to 4 days",
+    "challenges": "Camera coverage gaps in lower-income neighborhoods",
+    "year": 2024,
+    "source": "https://oecd.ai/cases/seattle-infrastructure"
+  },
+  {
+    "name": "Austin, TX",
+    "population": 978000,
+    "type": "urban",
+    "use_case": "Smart energy grid load forecasting",
+    "outcome": "8% reduction in peak-demand energy costs for the city",
+    "challenges": "Grid modernization costs, vendor lock-in risk",
+    "year": 2023,
+    "source": "https://austinenergy.com/ae/about/environment/smart-grid"
+  },
+  {
+    "name": "Philadelphia, PA",
+    "population": 1580000,
+    "type": "urban",
+    "use_case": "Predictive lead pipe replacement targeting",
+    "outcome": "Identified 25,000 high-risk service lines with 89% accuracy",
+    "challenges": "Equity concerns — model underrepresented minority neighborhoods",
+    "year": 2022,
+    "source": "https://www.phila.gov/2022-10-26-using-data-to-find-lead-pipes/"
+  },
+  {
+    "name": "Montgomery County, MD",
+    "population": 1060000,
+    "type": "suburban",
+    "use_case": "AI-assisted permitting and zoning review",
+    "outcome": "Permit processing time reduced by 40%",
+    "challenges": "Staff retraining required, public hearings on AI in government",
+    "year": 2023,
+    "source": "https://www.montgomerycountymd.gov/OIT"
+  },
+  {
+    "name": "Naperville, IL",
+    "population": 149000,
+    "type": "suburban",
+    "use_case": "Predictive water main break detection",
+    "outcome": "Emergency repair incidents down 22% over two years",
+    "challenges": "Sensor installation cost, data silos between city departments",
+    "year": 2023,
+    "source": "https://oecd.ai/cases/naperville-water"
+  },
+  {
+    "name": "Scottsdale, AZ",
+    "population": 258000,
+    "type": "suburban",
+    "use_case": "AI chatbot for resident permit inquiries",
+    "outcome": "Deflected 31% of call-center volume in first year",
+    "challenges": "Chatbot hallucinated incorrect permit fees in early deployment",
+    "year": 2022,
+    "source": "https://www.scottsdaleaz.gov/digital-services"
+  },
+  {
+    "name": "Plano, TX",
+    "population": 285000,
+    "type": "suburban",
+    "use_case": "School district AI tutoring pilot",
+    "outcome": "Reading proficiency gains 11% above control group in 6 months",
+    "challenges": "Teacher buy-in, unequal device access across income levels",
+    "year": 2024,
+    "source": "https://www.pisd.edu/technology"
+  },
+  {
+    "name": "Aurora, CO",
+    "population": 386000,
+    "type": "suburban",
+    "use_case": "AI dispatch optimization for non-emergency police calls",
+    "outcome": "Response times for low-priority calls improved 18%",
+    "challenges": "Community trust concerns, union negotiation over AI role in dispatch",
+    "year": 2023,
+    "source": "https://oecd.ai/cases/aurora-dispatch"
+  },
+  {
+    "name": "Cary, NC",
+    "population": 174000,
+    "type": "suburban",
+    "use_case": "ML-based stormwater runoff forecasting",
+    "outcome": "Flooding incidents in pilot zone reduced by 30%",
+    "challenges": "Model accuracy dropped during atypical weather events",
+    "year": 2023,
+    "source": "https://www.townofcary.org/smart-cary"
+  },
+  {
+    "name": "Overland Park, KS",
+    "population": 197000,
+    "type": "suburban",
+    "use_case": "AI-assisted economic development site selection",
+    "outcome": "Attracted 3 new corporate HQs within 18 months of tool deployment",
+    "challenges": "Governance gaps — no formal AI policy existed before deployment",
+    "year": 2022,
+    "source": "https://www.opkansas.org/business/economic-development"
+  },
+  {
+    "name": "Waukesha County, WI",
+    "population": 202000,
+    "type": "suburban",
+    "use_case": "Predictive maintenance for county fleet vehicles",
+    "outcome": "Fleet downtime reduced 27%, saving $600K annually",
+    "challenges": "Low data maturity — telematics data was inconsistently collected",
+    "year": 2023,
+    "source": "https://oecd.ai/cases/waukesha-fleet"
+  },
+  {
+    "name": "Clay County, MO",
+    "population": 250000,
+    "type": "suburban",
+    "use_case": "AI-enhanced property tax assessment accuracy",
+    "outcome": "Assessment accuracy within 3% of market value vs prior 9% variance",
+    "challenges": "Appeals volume increased as residents challenged AI valuations",
+    "year": 2024,
+    "source": "https://www.claycountymo.gov/assessor"
+  },
+  {
+    "name": "Presidio County, TX",
+    "population": 6900,
+    "type": "rural",
+    "use_case": "Drone and AI crop disease detection for small farms",
+    "outcome": "Early detection improved by 34%, but only 40% of farms adopted due to broadband gaps",
+    "challenges": "Infrastructure gaps, low digital literacy, device cost barriers",
+    "year": 2024,
+    "source": "https://www.usda.gov/rural-development/ai-pilot-2024"
+  },
+  {
+    "name": "McDowell County, WV",
+    "population": 19000,
+    "type": "rural",
+    "use_case": "AI triage tool for rural emergency medical dispatch",
+    "outcome": "Pilot improved ambulance routing efficiency by 15%",
+    "challenges": "Only 1 hospital within 60 miles; tool limited by infrastructure not AI",
+    "year": 2023,
+    "source": "https://oecd.ai/cases/mcdowell-ems"
+  },
+  {
+    "name": "Coos County, OR",
+    "population": 64000,
+    "type": "rural",
+    "use_case": "Wildfire risk prediction using satellite imagery + ML",
+    "outcome": "High-risk zone identification accuracy of 78%, enabling proactive clearing",
+    "challenges": "Connectivity outages during fire season limited real-time use",
+    "year": 2023,
+    "source": "https://www.odf.oregon.gov/fire/ai-pilot"
+  },
+  {
+    "name": "Leflore County, MS",
+    "population": 28000,
+    "type": "rural",
+    "use_case": "AI-powered reading intervention for Title I schools",
+    "outcome": "Pilot showed 9% literacy improvement but halted due to lack of tech support staff",
+    "challenges": "No local IT workforce, connectivity unreliable, ethics policy absent",
+    "year": 2022,
+    "source": "https://www.ed.gov/technology/rural-ai-pilots"
+  },
+  {
+    "name": "Grand Forks County, ND",
+    "population": 74000,
+    "type": "rural",
+    "use_case": "Precision agriculture AI advisory platform",
+    "outcome": "Participating farms saw 8% yield increase and 12% input cost reduction",
+    "challenges": "Data sharing between farms limited by privacy concerns",
+    "year": 2024,
+    "source": "https://ndsu.edu/agriculture/extension/ai-advisory"
+  },
+  {
+    "name": "Harlan County, KY",
+    "population": 26000,
+    "type": "rural",
+    "use_case": "AI workforce reskilling needs assessment",
+    "outcome": "Identified top 5 skill gaps; linked 340 residents to online training",
+    "challenges": "Low broadband penetration meant 60% of residents couldn't access training online",
+    "year": 2023,
+    "source": "https://www.arc.gov/human-capital/digital-skills"
+  },
+  {
+    "name": "Boone County, IA",
+    "population": 26000,
+    "type": "rural",
+    "use_case": "Predictive analytics for bridge maintenance prioritization",
+    "outcome": "Prevented 2 bridge closures through early intervention in year 1",
+    "challenges": "Data collection required manual field updates, limiting model freshness",
+    "year": 2023,
+    "source": "https://iowadot.gov/systems-planning/ai-bridge-pilot"
+  },
+  {
+    "name": "Boundary County, ID",
+    "population": 12000,
+    "type": "rural",
+    "use_case": "AI-assisted grant writing for small municipalities",
+    "outcome": "County secured 2 additional federal grants worth $1.4M using AI-drafted applications",
+    "challenges": "Staff initially mistrusted AI output; required human review layer",
+    "year": 2024,
+    "source": "https://oecd.ai/cases/boundary-county-grants"
+  }
+]
